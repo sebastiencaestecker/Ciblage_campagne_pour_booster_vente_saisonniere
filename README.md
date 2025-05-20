@@ -84,4 +84,5 @@ avec **groupe témoin aléatoire** pour mesurer l’impact réel.
 ---
 
 ➡️ *Projet 100 % SQL – réalisé sur BigQuery avec le dataset public `thelook_ecommerce`*
+
 PS:J'avais initialement prévu de créer une vue permanente pour conserver cette table, mais cela nécessite un environnement BigQuery payant.
