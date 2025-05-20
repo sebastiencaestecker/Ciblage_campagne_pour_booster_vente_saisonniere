@@ -57,11 +57,8 @@ avec **groupe témoin aléatoire** pour mesurer l’impact réel.
 
 #### 🧮 Simulation ROI
 
-* Offre : **10 € dès 100 € d’achat**
-* Marge brute estimée : 40 %
-* Panier moyen estimé : 135 €
-* Taux de conversion cible : 5 %
-* ROI estimé : **x4.4**
+J’ai également croisé les comportements d’achat avec les données de coût produit pour calculer la marge réelle par catégorie sur les 4 derniers mois.
+Cela m’a permis de prioriser les catégories non seulement sous-exploitées, mais aussi rentables à activer. Par exemple, “Outerwear & Coats” combine marge >55 % et panier >135 €.
 
 ---
 
