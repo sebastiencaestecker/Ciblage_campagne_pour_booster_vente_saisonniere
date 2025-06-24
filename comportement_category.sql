@@ -33,7 +33,7 @@ rfm1 AS (
 ),
 
     -- Je calcule le quartile pour la recency, frequency et la  monetary, la limite 1 car le resultat et le meme pour chaque ligne de la table rfm1
-    -- percentile_cont() me calcule la valeur pour chaque quartile
+    -- percentile_cont()  calcule la valeur pour chaque quartile
 quartiles AS (
   SELECT
     PERCENTILE_CONT(recency, 0.25) OVER() AS r_q1,
