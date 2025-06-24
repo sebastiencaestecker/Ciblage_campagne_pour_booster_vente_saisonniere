@@ -82,7 +82,7 @@ Lors des soldes, une offre générique à -70 % sur cette catégorie n’a gén�
 * Marge = 11 340 € × 55 % = **6 237 €**
 * Coût de générosité = 84 × 25 = **2 100 €**
 
-** ROI estimé : (6 237 - 2 100) / 2 100 = ≈ x1.97**
+* ROI estimé : (6 237 - 2 100) / 2 100 = ≈ x1.97*
 ---
 
 ##  Ce que j’ai appris
