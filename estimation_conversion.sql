@@ -1,3 +1,4 @@
+--Mettre le code du Calcul segment RFM ICI
 SELECT e.event_type, COUNT(*) AS nb
 FROM `bigquery-public-data.thelook_ecommerce.events` as e
 JOIN rfm_final rf ON e.user_id=rf.user_id
