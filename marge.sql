@@ -1,4 +1,4 @@
---Mettre le code du Calcul segment RFM ICI
+
 WITH ca_category AS(
 SELECT
   p.category,
