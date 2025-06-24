@@ -1,3 +1,17 @@
+/*
+--Pour selectionner une periode avec une date défini et 4 mois avant cette date
+DECLARE date_cible DATE DEFAULT "2025-03-01";
+
+SELECT
+  user_id,
+  MAX(date(created_at)) AS last_date_achat,
+  count(*) as Frequency,
+  sum(sale_price) as Monetary
+FROM bigquery-public-data.thelook_ecommerce.order_items
+WHERE date(created_at) BETWEEN DATE_SUB(date_cible, INTERVAL 4 MONTH) AND date_cible
+GROUP BY user_id
+*/
+
 WITH rfm AS (
   Select
     user_id,
